@@ -8,7 +8,7 @@ const profileData = {
              "email": "robin.mishra81@gmail.com",
             "phone": "+919773770113",
             "address": "MAQSOOD HOSTEL,ARSHA LIBRARY,HAUZ KHAS ,NEW DELHI-110016",
-            "portfolio": "https://mrrob25.github.io/resume/"
+            "portfolio": "https://mrrob25.github.io/ptofile/"
         }
     },
     "links": [
