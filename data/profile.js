@@ -91,7 +91,7 @@ const profileData = {
                      "date": "March 2017"
                 },
 	        {
-                     "desc": "Secured <strong> Rank 14100</strong> in <b> Gate CS 2020</b> with <b> Score 350</b>",
+                     "desc": "Secured <strong> Rank 14100</strong> in <b> Gate EE 2020</b> with <b> Score 350</b>",
                      "date": "March 2020"
                 }
             ]
