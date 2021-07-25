@@ -77,10 +77,6 @@ const profileData = {
                     "desc": "a online learning course in <strong> JavaScript Essential Training </strong> hosted by <b> Linkedin </b>",
                     "date": "18:July, 2021"
                 },
-		{
-                    "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
-                    "date": "December, 2017"
-                }
             ]
         },
         {
